@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(238, 238, 238);
+  font-family: 'Trebuchet', Helvetica, sans-serif;
+  color: #333;
+}
+
+#title {
+  text-align: center;
+  padding: 5px;
+}
+
+#img-div {
+text-align: center;
+background-color: white;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+#img-caption {
+  padding: 15px;
+}
+
+#main {
+  text-align: center;
+  padding: 20px;
+}
+
+#tribute-info {
+  width: 40%;
+  text-align: left;
+  margin: 0 auto;
+}
+
+li {
+  padding-top: 10px;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.quote {
+  font-style: italic;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 35px;
+}
